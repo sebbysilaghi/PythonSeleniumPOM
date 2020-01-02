@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoTestManager">
+    <enabled-run-configurations>
+      <run-configuration type="tests" name="Unittests for login.LoginTests.test_login_valid" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46456054-1352-492f-b75c-3fd9816759f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vf4p9GsDt0KDbsllifcjHfStbI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for login.LoginTests.test_login_valid">
+    <configuration name="Unittests for login.LoginTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUIAutomationTests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SampleProject/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login.LoginTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for login.LoginTests.test_login_invalid_password" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUIAutomationTests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SampleProject/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login.LoginTests.test_login_invalid_password&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for login.LoginTests.test_login_invalid_username" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUIAutomationTests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SampleProject/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login.LoginTests.test_login_invalid_username&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for login.LoginTests.test_login_valid" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUIAutomationTests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SampleProject/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login.LoginTests.test_login_valid&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login tests" type="tests" factoryName="Unittests">
+      <module name="SeleniumUIAutomationTests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SampleProject.Tests.login.LoginTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.login tests" />
+      <item itemvalue="Python tests.Unittests for login.LoginTests" />
+      <item itemvalue="Python tests.Unittests for login.LoginTests.test_login_valid" />
+      <item itemvalue="Python tests.Unittests for login.LoginTests.test_login_invalid_username" />
+      <item itemvalue="Python tests.Unittests for login.LoginTests.test_login_invalid_password" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for login.LoginTests.test_login_valid" />
+        <item itemvalue="Python tests.Unittests for login.LoginTests.test_login_invalid_password" />
+        <item itemvalue="Python tests.Unittests for login.LoginTests.test_login_invalid_username" />
+        <item itemvalue="Python tests.Unittests for login.LoginTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46456054-1352-492f-b75c-3fd9816759f2" name="Default Changelist" comment="" />
+      <created>1577630995121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577630995121</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1731" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577986435894">
+      <screen x="1440" y="23" width="2560" height="1057" />
+    </state>
+    <state x="1731" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog/35.23.1405.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577986435894" />
+    <state x="1731" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog/37.23.1403.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577633395757" />
+    <state x="2004" y="350" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577633387523">
+      <screen x="1440" y="23" width="2560" height="1057" />
+    </state>
+    <state x="2004" y="350" key="#com.intellij.ide.util.TreeClassChooserDialog/37.23.1403.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577633387523" />
+    <state width="1382" height="229" key="GridCell.Tab.0.bottom" timestamp="1577992374627">
+      <screen x="1440" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1419" height="230" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.2560.1080@0.0.1440.900" timestamp="1577632260564" />
+    <state width="1382" height="285" key="GridCell.Tab.0.bottom/33.23.1407.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577991405865" />
+    <state width="1382" height="229" key="GridCell.Tab.0.bottom/34.23.1406.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577992374627" />
+    <state width="1419" height="230" key="GridCell.Tab.0.bottom/36.23.1404.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577634197442" />
+    <state width="1419" height="230" key="GridCell.Tab.0.bottom/37.23.1403.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577634046270" />
+    <state width="1419" height="230" key="GridCell.Tab.0.bottom/38.23.1402.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577631943633" />
+    <state width="1382" height="229" key="GridCell.Tab.0.center" timestamp="1577992374626">
+      <screen x="1440" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1419" height="230" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.2560.1080@0.0.1440.900" timestamp="1577632260563" />
+    <state width="1382" height="285" key="GridCell.Tab.0.center/33.23.1407.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577991405864" />
+    <state width="1382" height="229" key="GridCell.Tab.0.center/34.23.1406.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577992374626" />
+    <state width="1419" height="230" key="GridCell.Tab.0.center/36.23.1404.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577634197440" />
+    <state width="1419" height="230" key="GridCell.Tab.0.center/37.23.1403.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577634046268" />
+    <state width="1419" height="230" key="GridCell.Tab.0.center/38.23.1402.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577631943632" />
+    <state width="1382" height="229" key="GridCell.Tab.0.left" timestamp="1577992374625">
+      <screen x="1440" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1419" height="230" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.2560.1080@0.0.1440.900" timestamp="1577632260562" />
+    <state width="1382" height="285" key="GridCell.Tab.0.left/33.23.1407.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577991405864" />
+    <state width="1382" height="229" key="GridCell.Tab.0.left/34.23.1406.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577992374625" />
+    <state width="1419" height="230" key="GridCell.Tab.0.left/36.23.1404.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577634197439" />
+    <state width="1419" height="230" key="GridCell.Tab.0.left/37.23.1403.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577634046267" />
+    <state width="1419" height="230" key="GridCell.Tab.0.left/38.23.1402.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577631943631" />
+    <state width="1382" height="229" key="GridCell.Tab.0.right" timestamp="1577992374626">
+      <screen x="1440" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1419" height="230" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.2560.1080@0.0.1440.900" timestamp="1577632260563" />
+    <state width="1382" height="285" key="GridCell.Tab.0.right/33.23.1407.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577991405864" />
+    <state width="1382" height="229" key="GridCell.Tab.0.right/34.23.1406.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577992374626" />
+    <state width="1419" height="230" key="GridCell.Tab.0.right/36.23.1404.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577634197441" />
+    <state width="1419" height="230" key="GridCell.Tab.0.right/37.23.1403.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577634046270" />
+    <state width="1419" height="230" key="GridCell.Tab.0.right/38.23.1402.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577631943632" />
+    <state width="1382" height="285" key="GridCell.Tab.1.bottom" timestamp="1577992202550">
+      <screen x="1440" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1382" height="285" key="GridCell.Tab.1.bottom/33.23.1407.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577991768870" />
+    <state width="1382" height="285" key="GridCell.Tab.1.bottom/34.23.1406.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577992202550" />
+    <state width="1382" height="285" key="GridCell.Tab.1.center" timestamp="1577992202549">
+      <screen x="1440" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1382" height="285" key="GridCell.Tab.1.center/33.23.1407.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577991768869" />
+    <state width="1382" height="285" key="GridCell.Tab.1.center/34.23.1406.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577992202549" />
+    <state width="1382" height="285" key="GridCell.Tab.1.left" timestamp="1577992202548">
+      <screen x="1440" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1382" height="285" key="GridCell.Tab.1.left/33.23.1407.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577991768868" />
+    <state width="1382" height="285" key="GridCell.Tab.1.left/34.23.1406.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577992202548" />
+    <state width="1382" height="285" key="GridCell.Tab.1.right" timestamp="1577992202549">
+      <screen x="1440" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1382" height="285" key="GridCell.Tab.1.right/33.23.1407.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577991768870" />
+    <state width="1382" height="285" key="GridCell.Tab.1.right/34.23.1406.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1577992202549" />
+    <state x="486" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1577986696692">
+      <screen x="34" y="23" width="1406" height="877" />
+    </state>
+    <state x="486" y="294" key="com.intellij.ide.util.TipDialog/34.23.1406.877/1440.23.2560.1057@34.23.1406.877" timestamp="1577986696692" />
+    <state x="487" y="294" key="com.intellij.ide.util.TipDialog/35.23.1405.877@35.23.1405.877" timestamp="1577727980368" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SampleProject/Pages/loginPage.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="self.driver.find_element_by_id(self.invalidCredentials_message_id)" language="Python" />
+        <watch expression="a = self.driver.find_element_by_id(self.invalidCredentials_message_id).get_attribute('text')" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
